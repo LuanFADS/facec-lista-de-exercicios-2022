@@ -7,7 +7,7 @@
     <ProjectGuid>{39C7565E-B7EB-48FD-974E-EBA37A06F849}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Exercicio._02</RootNamespace>
-    <AssemblyName>Exercicio._02</AssemblyName>
+    <AssemblyName>Exercicio.02</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
